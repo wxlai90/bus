@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "me.lwxyz.twa",
+            "sha256_cert_fingerprints": [
+                "89:A6:EA:62:46:61:2E:8E:C6:B9:88:A2:5B:D0:4F:E3:EB:B3:75:F1:5D:72:BD:03:6F:72:7D:61:F1:8C:DB:39"
+            ]
+        }
+    }
+]
