@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./bus/static/css/main.c8e87a77.css",
-    "main.js": "./bus/static/js/main.32361584.js",
-    "service-worker.js": "./bus/service-worker.js",
-    "index.html": "./bus/index.html"
+    "main.css": "/bus/static/css/main.c8e87a77.css",
+    "main.js": "/bus/static/js/main.3e1695e3.js",
+    "service-worker.js": "/bus/service-worker.js",
+    "index.html": "/bus/index.html"
   },
   "entrypoints": [
     "static/css/main.c8e87a77.css",
-    "static/js/main.32361584.js"
+    "static/js/main.3e1695e3.js"
   ]
 }
